@@ -1,4 +1,4 @@
-# go-clang/v3.6 [![GoDoc](https://godoc.org/github.com/go-clang/clang-v3.6?status.png)](https://godoc.org/github.com/go-clang/clang-v3.6) [![Build Status](https://travis-ci.org/go-clang/clang-v3.6.svg?branch=master)](https://travis-ci.org/go-clang/clang-v3.6)
+# go-clang/clang-v3.6 [![PkgGoDev](https://pkg.go.dev/badge/go-clang/clang-v3.6/clang)](https://pkg.go.dev/github.com/go-clang/clang-v3.6) [![Build Status](https://travis-ci.org/go-clang/clang-v3.6.svg?branch=master)](https://travis-ci.org/go-clang/clang-v3.6)
 
 Native Go bindings for Clang's C API.
 
